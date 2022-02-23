@@ -7,6 +7,7 @@
 
 ### Places
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC8EOX8KAaesGhesOHzmcyzw?color=FF0000&logo=youtube&style=for-the-badge)](https://www.youtube.com/BenjaminHalko)
+[![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge)](https://benjamin-halko.itch.io/)
 
 ### Editors I Use
 ![](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&style=for-the-badge)
