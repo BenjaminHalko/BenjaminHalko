@@ -6,7 +6,7 @@
 </details>
 
 ### Places
-!["https://www.youtube.com/BenjaminHalko"](https://img.shields.io/youtube/channel/subscribers/UC8EOX8KAaesGhesOHzmcyzw?color=FF0000&logo=youtube&style=for-the-badge)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC8EOX8KAaesGhesOHzmcyzw?color=FF0000&logo=youtube&style=for-the-badge)](https://www.youtube.com/BenjaminHalko)
 
 ### Editors I Use
 ![](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&style=for-the-badge)
