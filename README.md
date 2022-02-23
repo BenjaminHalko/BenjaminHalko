@@ -12,5 +12,5 @@
 
 <details open>
   <summary>Website Stuff</summary>
-  <a href="https://www.youtube.com/BenjaminHalko" target="_blank" rel="noreferrer noopener"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8EOX8KAaesGhesOHzmcyzw?color=FF0000&logo=youtube&style=for-the-badge"></a>
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8EOX8KAaesGhesOHzmcyzw?color=FF0000&logo=youtube&style=for-the-badge&link=https://www.youtube.com/BenjaminHalko">
 </details>
