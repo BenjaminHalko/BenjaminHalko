@@ -2,7 +2,7 @@
 
 I am just someone who likes coding things
 
-List of coding time:
+### Coding Statistics:
 <!--START_SECTION:waka-->
 ```text
 Python      28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
