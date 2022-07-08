@@ -5,8 +5,7 @@ I am just someone who likes coding things
 ### Coding Statistics (last 7 days):
 <!--START_SECTION:waka-->
 ```text
-LeetCode   5 hrs 43 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.24 % 
-Python     28 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.76 % 
+LeetCode   4 hrs 11 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
