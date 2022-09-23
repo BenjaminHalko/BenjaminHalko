@@ -17,7 +17,6 @@ Python       48 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![YouTube Channel](https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/BenjaminHalko)
 [![Github](https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/BenjaminHalko)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/BenjaminHalko/)
-[![LeetCode](https://img.shields.io/badge/leetcode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/benjaminhalko/)
 [![KoFi](https://img.shields.io/badge/kofi-12b9f2?logo=kofi&logoColor=white&style=for-the-badge)](https://ko-fi.com/BenjaminHalko)
 
 
