@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I am just someone who likes coding things
 
-### Coding Statistics (last 7 days):
+## Coding Statistics (last 7 days):
 <!--START_SECTION:waka-->
 ```text
 PowerShell   23 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.94 % 
@@ -12,6 +12,26 @@ XML          1 min           ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
+<details open>
+<summary><h2>My Games</h2></summary>
+  <table>
+    <tr><td>
+      <img src="https://img.itch.zone/aW1nLzEwMzMwNDE5LnBuZw==/x150/Fr8cZm.png" width="240">
+    </td><td valign=top>
+      <h2>Blades of Doom</h3> 
+      <p>Don't touch the saw blades or else you will be sad.</p>
+      <a href="https://benjamin-halko.itch.io/blades-of-doom"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a>
+    </td></tr>
+    <tr><td>
+      <img src="https://img.itch.zone/aW1nLzk3MTIwMjQucG5n/x150/9zl9b9.png" width="240">
+    </td><td valign=top>
+      <h2>Neon Impact</h3>
+      <p>Don't touch the saw blades or else you will be sad.</p>
+      <a href="https://benjamin-halko.itch.io/neon-impact"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a> <a href="https://github.com/BenjaminHalko/Neon-Impact"><img src="https://img.shields.io/badge/Source%20Code-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+    </td></tr>
+  </table>
+</details>
+
 ### Socials
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge)](https://benjamin-halko.itch.io/)
 [![YouTube Channel](https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/BenjaminHalko)
@@ -19,7 +39,6 @@ XML          1 min           ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/BenjaminHalko/)
 [![KoFi](https://img.shields.io/badge/kofi-12b9f2?logo=kofi&logoColor=white&style=for-the-badge)](https://ko-fi.com/BenjaminHalko)
 [![GX Games](https://img.shields.io/badge/GX%20Games-fc1e4f?style=for-the-badge)](https://gx.games/studios/001cf107-345b-4227-b45e-d54580fe019c/)
-
 
 ### Editors I Use
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com)
