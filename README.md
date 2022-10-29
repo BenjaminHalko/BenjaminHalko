@@ -18,16 +18,44 @@ XML          1 min           ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <tr><td>
       <img src="https://img.itch.zone/aW1nLzEwMzMwNDE5LnBuZw==/x150/Fr8cZm.png" width="240">
     </td><td valign=top>
-      <h2>Blades of Doom <img src="assets/windows.svg" width="12"></h3> 
+      <h2>Blades of Doom <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"> <img src="assets/android.svg" height="12"> <img src="assets/html5.svg" height="12"></h2> 
       <p>Don't touch the saw blades or else you will be sad.</p>
       <a href="https://benjamin-halko.itch.io/blades-of-doom"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a>
     </td></tr>
     <tr><td>
       <img src="https://img.itch.zone/aW1nLzk3MTIwMjQucG5n/x150/9zl9b9.png" width="240">
     </td><td valign=top>
-      <h2>Neon Impact</h3>
-      <p>Don't touch the saw blades or else you will be sad.</p>
+      <h2>Neon Impact <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"> <img src="assets/android.svg" height="12"> <img src="assets/html5.svg" height="12"></h2>
+      <p>Blast around the screen as you try to avoid the Wall of Doom!</p>
       <a href="https://benjamin-halko.itch.io/neon-impact"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a> <a href="https://github.com/BenjaminHalko/Neon-Impact"><img src="https://img.shields.io/badge/Source%20Code-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+    </td></tr>
+    <tr><td>
+      <img src="https://img.itch.zone/aW1nLzg3ODE0NzUucG5n/x150/C72jWI.png" width="240">
+    </td><td valign=top>
+      <h2>Shapeion <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"> <img src="assets/android.svg" height="12"> <img src="assets/html5.svg" height="12"></h2>
+      <p>A fast paced arcade game about shape recognition!</p>
+      <a href="https://benjamin-halko.itch.io/shapeion"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a> <a href="https://github.com/BenjaminHalko/Shapeion"><img src="https://img.shields.io/badge/Source%20Code-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+    </td></tr>
+    <tr><td>
+      <img src="https://img.itch.zone/aW1nLzEwMzk1NTE2LnBuZw==/x150/roibfH.png" width="240">
+    </td><td valign=top>
+      <h2>You Are A Bomb <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"> <img src="assets/android.svg" height="12"> <img src="assets/html5.svg" height="12"></h2>
+      <p>Be a happy little bomb and eat other bombs</p>
+      <a href="https://benjamin-halko.itch.io/you-are-a-bomb"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a> <a href="https://github.com/BenjaminHalko/You-Are-A-Bomb"><img src="https://img.shields.io/badge/Source%20Code-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+    </td></tr>
+    <tr><td>
+      <img src="https://img.itch.zone/aW1nLzg0NTUyNjUucG5n/x150/6%2FnoMQ.png" width="240">
+    </td><td valign=top>
+      <h2>Twilight Tempo <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"> <img src="assets/html5.svg" height="12"></h2>
+      <p>Keep your ears open, because at night, the screen goes black. Listen to the music and score as many points as you can.</p>
+      <a href="https://benjamin-halko.itch.io/twilight-tempo"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a> <a href="https://github.com/BenjaminHalko/Twilight-Tempo"><img src="https://img.shields.io/badge/Source%20Code-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+    </td></tr>
+    <tr><td>
+      <img src="https://img.itch.zone/aW1nLzEwMzk1NTgwLnBuZw==/x150/OeJQ%2Fd.png" width="240">
+    </td><td valign=top>
+      <h2>Snake Using Windows <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"></h2>
+      <p>A game made out of itself</p>
+      <a href="https://benjamin-halko.itch.io/snake-using-windows"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a> <a href="https://github.com/BenjaminHalko/SnakeUsingWindows"><img src="https://img.shields.io/badge/Source%20Code-181717?logo=github&logoColor=white&style=for-the-badge"></a>
     </td></tr>
   </table>
 </details>
