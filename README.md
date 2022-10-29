@@ -18,7 +18,7 @@ XML          1 min           ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <tr><td>
       <img src="https://img.itch.zone/aW1nLzEwMzMwNDE5LnBuZw==/x150/Fr8cZm.png" width="240">
     </td><td valign=top>
-      <h2>Blades of Doom</h3> 
+      <h2>Blades of Doom <img src="assets/windows.svg" width="12"></h3> 
       <p>Don't touch the saw blades or else you will be sad.</p>
       <a href="https://benjamin-halko.itch.io/blades-of-doom"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a>
     </td></tr>
