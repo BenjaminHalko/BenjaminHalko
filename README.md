@@ -22,6 +22,7 @@ CSS          34 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       <h2>Blades of Doom <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"> <img src="assets/android.svg" height="12"> <img src="assets/html5.svg" height="12"></h2> 
       <p>Don't touch the saw blades or else you will be sad.</p>
       <a href="https://benjamin-halko.itch.io/blades-of-doom"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/BenjaminHalko/Blades-Of-Doom"><img src="https://img.shields.io/badge/Source%20Code-181717?logo=github&logoColor=white&style=for-the-badge"></a>
     </td></tr>
     <tr><td>
       <img src="https://img.itch.zone/aW1nLzk3MTIwMjQucG5n/x150/9zl9b9.png" width="240">
