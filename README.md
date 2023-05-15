@@ -47,7 +47,7 @@ JSON         3 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <tr><td>
       <img src="https://img.itch.zone/aW1nLzg0NTUyNjUucG5n/x150/6%2FnoMQ.png" width="240">
     </td><td valign=top>
-      <h2>Twilight Tempo <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"> <img src="assets/html5.svg" height="12"></h2>
+      <h2>Twilight Tempo <img src="assets/windows.svg" height="12"> <img src="assets/linux.svg" height="12"> <img src="assets/android.svg" height="12"> <img src="assets/html5.svg" height="12"></h2>
       <p>Keep your ears open, because at night, the screen goes black. Listen to the music and score as many points as you can.</p>
       <a href="https://benjamin-halko.itch.io/twilight-tempo"><img src="https://img.shields.io/badge/Play%20Now-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge"></a> <a href="https://github.com/BenjaminHalko/Twilight-Tempo"><img src="https://img.shields.io/badge/Source%20Code-181717?logo=github&logoColor=white&style=for-the-badge"></a>
     </td></tr>
