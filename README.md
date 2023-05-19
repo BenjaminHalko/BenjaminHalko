@@ -76,6 +76,7 @@ XML          3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/BenjaminHalko/)
 [![KoFi](https://img.shields.io/badge/kofi-12b9f2?logo=kofi&logoColor=white&style=for-the-badge)](https://ko-fi.com/BenjaminHalko)
 [![GX Games](https://img.shields.io/badge/GX%20Games-fc1e4f?style=for-the-badge)](https://gx.games/studios/001cf107-345b-4227-b45e-d54580fe019c/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-34a853?logo=googleplay&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/dev?id=6021828409391936642)
 
 ### Editors I Use
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com)
