@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am just someone who likes coding things
+I code wacky games and programs!
 
 ## Coding Statistics (last 7 days):
 <!--START_SECTION:waka-->
