@@ -24,7 +24,6 @@ jobs:
           plugin_introduction_title: yes
           plugin_languages: yes
           plugin_languages_ignored: yacc
-          plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_sections: time,languages,languages-graphs,editors
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
