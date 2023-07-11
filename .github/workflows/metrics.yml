@@ -20,7 +20,6 @@ jobs:
           plugin_code: yes
           plugin_code_visibility: public
           plugin_habits: yes
-          plugin_habits_days: 14
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_languages: yes
