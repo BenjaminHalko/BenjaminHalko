@@ -2,7 +2,7 @@
 
 I code wacky games and programs!
 
-![Metrics](github-metrics.svg)
+<img src="https://github.com/BenjaminHalko/BenjaminHalko/blob/main/github-metrics.svg" alt="Metrics" width=100%>
 
 ### Socials
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge)](https://benjamin-halko.itch.io/)
