@@ -28,7 +28,6 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used, recently-used
           plugin_lines: yes
-          plugin_stargazers: yes
           plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_sections: time,languages,languages-graphs,editors
