@@ -17,11 +17,6 @@
 </tr>
 <tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&layout=compact">
-    </td>
-</tr>
-<tr>
-    <td>
         <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
     </td>
 </tr>

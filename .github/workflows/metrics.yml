@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: "0 7 * * *"
   workflow_dispatch:
+  push: {branches: "main"}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -28,5 +29,7 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           plugin_wakatime: yes
+          plugin_wakatime_days: 365
+          plugin_wakatime_limit: 15
           plugin_wakatime_sections: time,languages,languages-graphs,editors
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
