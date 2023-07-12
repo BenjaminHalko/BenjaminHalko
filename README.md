@@ -1,6 +1,11 @@
 <table>
 <tr>
     <td>
+        I make games and an assortment of other wacky things!
+    </td>
+</tr>
+<tr>
+    <td>
         [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge)](https://benjamin-halko.itch.io/)
         [![YouTube Channel](https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/BenjaminHalko)
         [![Github](https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/BenjaminHalko)
