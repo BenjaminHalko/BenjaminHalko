@@ -1,7 +1,3 @@
-## Hi there 👋
-
-I code wacky games and programs!
-
 ![Metrics](github-metrics.svg)
 
 ### Socials
