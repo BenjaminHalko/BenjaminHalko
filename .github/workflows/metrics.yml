@@ -15,8 +15,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, repositories, metadata
-          base_indepth: yes
           config_timezone: America/Vancouver
+          plugin_achievements: yes
           plugin_code: yes
           plugin_code_visibility: public
           plugin_habits: yes
