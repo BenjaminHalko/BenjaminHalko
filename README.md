@@ -1,10 +1,5 @@
 <table>
 <tr>
-    <td>
-        I make games and an assortment of other wacky things!
-    </td>
-</tr>
-<tr>
     <td colspan=align="center">
         <a href="https://benjamin-halko.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge" alt="itch.io"></a>
         <a href="https://www.youtube.com/BenjaminHalko"><img src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
