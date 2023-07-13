@@ -16,8 +16,8 @@
     </td>
 </tr>
 <tr>
-    <td>
-        <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics" width="100%">
+    <td align="center">
+        <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
     </td>
 </tr>
 </table>
