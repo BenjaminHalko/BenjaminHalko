@@ -27,6 +27,8 @@ jobs:
           plugin_languages_ignored: yacc,java
           plugin_lines: yes
           plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_from: all
           plugin_notable_self: yes
           plugin_traffic: yes
           plugin_wakatime: yes
