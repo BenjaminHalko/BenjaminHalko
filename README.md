@@ -9,7 +9,7 @@
 </tr
 <tr>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark" alt="GitHub Stats" height="200px">
+        <img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="200px">
     </td>
 </tr>
 <tr>
