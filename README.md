@@ -1,12 +1,14 @@
 <table>
 <tr>
-    <td><h3>👋 Hello there!</h3></td>
+    <td>
+        <p>👋 I'm Benjamin! I mainly spend my time making games in GameMaker. I also somehow have become a web developer by complete accident...</p>
+    </td>
 </tr>
 <tr>
     <td>
-        <p>I'm Benjamin! I develop games and make other random things!</p>
+        <p>My other hobby includes spending hours automating tasks (usually in Python) that only take 5 minutes.</p>
     </td>
-</tr
+</tr>
 <tr>
     <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="200px">
