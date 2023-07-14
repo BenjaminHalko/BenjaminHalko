@@ -16,6 +16,7 @@ jobs:
           template: classic
           base: header,activity,community,repositories,metadata
           config_timezone: America/Vancouver
+          plugin_achievements: yes
           plugin_code: yes
           plugin_code_visibility: public
           plugin_habits: yes
