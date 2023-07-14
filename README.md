@@ -1,5 +1,14 @@
 <table>
 <tr>
+    <td><h3>👋 Hello there!</h3></td>
+</tr>
+<tr>
+    <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark" alt="GitHub Stats" height="200px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminhalko&hide=yacc,java&langs_count=8&theme=github_dark&layout=compact" alt="Language Stats" height="200px">
+    </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://benjamin-halko.itch.io/"><img src="assets/Itch-io.svg" alt="itch.io" height="48px"></a>
         <a href="https://www.youtube.com/BenjaminHalko"><img src="assets/YouTube.svg" alt="YouTube" height="48px"></a>
@@ -11,7 +20,7 @@
 </tr>
 <tr>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=gamemakerstudio,python,html,css,javascript,nodejs,expressjs" alt="Skills">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&layout=compact&theme=github_dark" alt="WakaTime Stats">
     </td>
 </tr>
 <tr>
@@ -19,4 +28,5 @@
         <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
     </td>
 </tr>
+
 </table>
