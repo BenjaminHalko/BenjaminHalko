@@ -4,7 +4,7 @@
 </tr>
 <tr>
     <td>
-        <p>I'm Benjamin! I developer games and make other random things!</p>
+        <p>I'm Benjamin! I develop games and make other random things!</p>
     </td>
 </tr
 <tr>
