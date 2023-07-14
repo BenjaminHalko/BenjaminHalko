@@ -20,13 +20,7 @@
 </tr>
 <tr>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&layout=compact&theme=github_dark" alt="WakaTime Stats">
-    </td>
-</tr>
-<tr>
-    <td align="center">
         <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
     </td>
 </tr>
-
 </table>
