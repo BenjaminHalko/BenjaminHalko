@@ -30,6 +30,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_from: all
           plugin_notable_self: yes
+          plugin_notable_types: commit,pull_request
           plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 180
