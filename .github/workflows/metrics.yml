@@ -16,7 +16,6 @@ jobs:
           template: classic
           base: header,activity,community,repositories,metadata
           config_timezone: America/Vancouver
-          plugin_achievements: yes
           plugin_code: yes
           plugin_code_visibility: public
           plugin_habits: yes
@@ -30,6 +29,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_from: all
+          plugin_notable_repositories: yes
           plugin_notable_self: yes
           plugin_notable_types: commit,pull_request
           plugin_traffic: yes
