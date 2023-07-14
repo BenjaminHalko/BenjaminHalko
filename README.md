@@ -3,6 +3,9 @@
     <td><h3>👋 Hello there!</h3></td>
 </tr>
 <tr>
+    <p>I'm Benjamin! I developer games and make other random things!</p>
+</tr
+<tr>
     <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark" alt="GitHub Stats" height="200px">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminhalko&hide=yacc,java&langs_count=8&theme=github_dark&layout=compact" alt="Language Stats" height="200px">
