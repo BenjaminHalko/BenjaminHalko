@@ -3,7 +3,9 @@
     <td><h3>👋 Hello there!</h3></td>
 </tr>
 <tr>
-    <p>I'm Benjamin! I developer games and make other random things!</p>
+    <td>
+        <p>I'm Benjamin! I developer games and make other random things!</p>
+    </td>
 </tr
 <tr>
     <td align="center">
