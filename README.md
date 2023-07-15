@@ -1,7 +1,7 @@
 <table>
 <tr>
     <td>
-        <p>👋 Hello, I'm Benjamin! I mainly spend my time making games in GameMaker. I also somehow have become a web developer by complete accident...</p>
+        <p>👋 Hello, I'm Benjamin! I mainly spend my time making games in GameMaker. I also somehow became a web developer by complete accident...</p>
     </td>
 </tr>
 <tr>
