@@ -82,9 +82,10 @@ if __name__ == "__main__":
         data["history"] = [[f"{'🔴' if data['turn'] == 0 else '🟡'} Column {move}", user]] + data["history"]
 
         if state == "win":
-            currentWinner = previousColor+" wins!"
+            winningDot = '🔴' if data['turn'] == 0 else '🟡' 
+            currentWinner = winningDot+" "+previousColor+" wins!"+" "+winningDot
         elif state == "draw":
-            currentWinner = "It is a draw."
+            currentWinner = "🔴 It is a draw. 🟡"
         
         # Save data
         nextTurn = 1 - data["turn"]
