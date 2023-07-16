@@ -17,6 +17,25 @@ def format_stats(stats):
         value += f"| {stat} | {val} |\n"
     return value
 
+def format_time(time):
+    days = time // 86400
+    time = time % 86400
+    hours = time // 3600
+    time = time % 3600
+    minutes = time // 60
+    time = time % 60
+    seconds = time
+
+    string = ""
+    if days > 0:
+        string += f"{int(days)} Days, "
+    if hours > 0:
+        string += f"{int(hours)} Hours, "
+    if minutes > 0:
+        string += f"{int(minutes)} Minutes, "
+    string += f"{int(seconds)} Seconds"
+    return string
+
 def updateReadme(name, ID, info, board, leaderboard, history, stats):
     readme = ""
     with open("README.md", "r") as f:
