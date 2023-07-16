@@ -47,15 +47,15 @@ def updateReadme(name, ID, info, board, leaderboard, history, stats):
 <tr><td>
 <p align="center">{info}</p><p>
 
-{board}<details align="left"><summary><h3>History of moves for this game</h3></summary><p>
+{board}<details align="left" open><summary><h3>History of moves for this game</h3></summary><p>
 
 {format_history(history)}</details>
 
-<details align="left"><summary><h3>Top 10 most active players</h3></summary><p>
+<details align="left" open><summary><h3>Top 10 most active players</h3></summary><p>
 
 {format_leaderboard(leaderboard)}</details>
 
-<details align="left"><summary><h3>Stats</h3></summary><p>
+<details align="left" open><summary><h3>Stats</h3></summary><p>
 
 {format_stats(stats)}</details>
 </td></tr>
