@@ -24,7 +24,7 @@ jobs:
 
             - name: Run Game
               run: |
-                pip install github
+                pip install PyGithub
                 python games/connect4.py
                  
             - name: Commit and push changes
