@@ -128,9 +128,9 @@ if __name__ == "__main__":
             issue.edit(state="closed")
             sys.exit(1)
 
-        dot = f"{'🔴' if data['turn'] == 0 else '🟡'} Column {move}"
+        dot = '🔴' if data['turn'] == 0 else '🟡'
         currentWinner = ""
-        data["history"] = [[dot, user]] + data["history"]
+        data["history"] = [[f"{dot} Column {move}", user]] + data["history"]
         if message == "win" or message == "draw":
             data["game_over"] = True
             data["game_times"].append(time.time() - data["game_start_time"])
