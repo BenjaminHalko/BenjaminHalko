@@ -2,7 +2,6 @@ from os import path
 import sys
 import json
 import time
-from datetime import timedelta, datetime
 from common.readme import updateReadme
 from common.issue import GetInfo
 
@@ -92,7 +91,7 @@ def make_move():
 # Get move
 def get_move():
     if issue.title.lower().startswith("connect4:"):
-        return int(issue.title.split(":")[1].strip().split(' ')[1])
+        return int(issue.title.split(":")[1].split(' ')[-1])
     return -1
 
 def time_to_string(time):
@@ -125,10 +124,11 @@ if __name__ == "__main__":
         print(message)
         if not success:
             issue.create_comment("Sorry, that move is invalid. Please try again.")
-            issue.edit(state="closed")
+            issue.edit(state="closed", labels=['Invalid'])
             sys.exit(1)
 
         currentWinner = ""
+        previousColor = "Red" if data["turn"] == 0 else "Yellow"
         data["history"] = [[f"{'🔴' if data['turn'] == 0 else '🟡'} Column {move}", user]] + data["history"]
         if message == "win" or message == "draw":
             data["game_over"] = True
@@ -136,7 +136,7 @@ if __name__ == "__main__":
             data["game_moves"].append(len(data["history"]))
             if message == "win":
                 data["games_won"][data["turn"]] += 1
-                currentWinner = "Red" if data["turn"] == 0 else "Yellow"
+                currentWinner = previousColor
             else:
                 data["games_won"][2] += 1
                 currentWinner = "Draw"
@@ -159,7 +159,7 @@ if __name__ == "__main__":
         for i in range(8):
             link = f'COL {i}'
             if data["board"][i][0] == -1:
-                link = f'[COL {i}](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+{color}+{i}&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD)'
+                link = f'[COL {i}](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+{i}&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD)'
             value += f'| {link} '
         value += '|\n' + '| :-: ' * 8 + '|\n'
 
@@ -190,8 +190,8 @@ if __name__ == "__main__":
 
         # Create comment
         issue.create_comment("Thanks for playing! Don't forget to star this repo if you enjoyed it!")
-        issue.edit(state="closed")
+        issue.edit(state="closed", labels=[previousColor])
     except Exception as e:
         issue.create_comment("Sorry, something went wrong. Please try again.")
-        issue.edit(state="closed")
+        issue.edit(state="closed", labels=['Invalid'])
         sys.exit(1)
