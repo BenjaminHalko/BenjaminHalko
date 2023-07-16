@@ -128,9 +128,8 @@ if __name__ == "__main__":
             issue.edit(state="closed")
             sys.exit(1)
 
-        dot = '🔴' if data['turn'] == 0 else '🟡'
         currentWinner = ""
-        data["history"] = [[f"{dot} Column {move}", user]] + data["history"]
+        data["history"] = [[f"{'🔴' if data['turn'] == 0 else '🟡'} Column {move}", user]] + data["history"]
         if message == "win" or message == "draw":
             data["game_over"] = True
             data["game_times"].append(time.time() - data["game_start_time"])
@@ -142,7 +141,8 @@ if __name__ == "__main__":
                 data["games_won"][2] += 1
                 currentWinner = "Draw"
         data["turn"] = 1 - data["turn"]
-        color = "Red" if data["turn"] == 0 else "Yellow"    
+        color = "Red" if data["turn"] == 0 else "Yellow"
+        dot = '🔴' if data['turn'] == 0 else '🟡' 
 
         if user not in data["leaderboard"]:
             data["leaderboard"][user] = 1
