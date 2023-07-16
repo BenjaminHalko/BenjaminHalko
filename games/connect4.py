@@ -128,8 +128,9 @@ if __name__ == "__main__":
             issue.edit(state="closed")
             sys.exit(1)
 
+        dot = f"{'🔴' if data['turn'] == 0 else '🟡'} Column {move}"
         currentWinner = ""
-        data["history"] = [[f"{'🔴' if data['turn'] == 0 else '🟡'} Column {move}", user]] + data["history"]
+        data["history"] = [[dot, user]] + data["history"]
         if message == "win" or message == "draw":
             data["game_over"] = True
             data["game_times"].append(time.time() - data["game_start_time"])
@@ -181,7 +182,7 @@ if __name__ == "__main__":
             stats["Average Time per Game"] = time_to_string(sum(data["game_times"]) / len(data["game_times"]))
             stats["Average Moves per Game"] = sum(data["game_moves"]) / len(data["game_moves"])
 
-        info = f"<b>A game of Connect 4 played on GitHub.</b><br>Click on a column to make a move. It is currently {color}'s turn."
+        info = f"<b>A game of Connect 4 played on GitHub.</b><br>{dot} Click on a column to make a move. It is currently {color}'s turn. {dot}"
         if "game_over" in data:
             info = f"<b>A game of Connect 4 played on GitHub.</b><br>The game is currently over. {currentWinner} won!<br>Click on a column to start a new game."
 
