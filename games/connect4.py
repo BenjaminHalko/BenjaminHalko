@@ -5,9 +5,9 @@ from common.data import load_data, save_data
 
 # Load data
 def get_data():
-    data = load_data("games/connect4_data/data.json")
+    data, gameOver = load_data("games/connect4_data/data.json")
 
-    if "board" not in data or "game_over" in data:
+    if "board" not in data or gameOver:
         data["board"] = [[-1] * 6 for i in range(8)]
         print("New board created")
 

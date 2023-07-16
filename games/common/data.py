@@ -9,6 +9,8 @@ def load_data(file):
     else:
         data = {}
 
+    gameOver = "game_over" in data
+
     if "turn" not in data:
         data["turn"] = 0
 
@@ -18,7 +20,7 @@ def load_data(file):
     if "leaderboard" not in data:
         data["leaderboard"] = {}
 
-    if "history" not in data or "game_over" in data:
+    if "history" not in data or gameOver:
         data["history"] = []
 
     if "game_times" not in data:
@@ -27,13 +29,13 @@ def load_data(file):
     if "game_moves" not in data:
         data["game_moves"] = []
 
-    if "game_start_time" not in data or "game_over" in data:
+    if "game_start_time" not in data or gameOver:
         data["game_start_time"] = time.time()
 
-    if "game_over" in data:
+    if gameOver:
         data.pop("game_over")
 
-    return data
+    return data, gameOver
 
 def save_data(data, state, user, file):
     if state == "win" or state == "draw":
