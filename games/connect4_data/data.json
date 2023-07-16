@@ -86,5 +86,6 @@
     "game_moves": [
         11
     ],
-    "game_start_time": 1689550180.6090705
+    "game_start_time": 1689550180.6090705,
+    "game_over": true
 }
