@@ -11,5 +11,7 @@
 	<a href="https://linkedin.com/in/BenjaminHalko/"><img src="assets/LinkedIn.svg" alt="LinkedIn" height="48px"></a>
 	<a href="https://ko-fi.com/BenjaminHalko"><img src="assets/KoFi.svg" alt="KoFi" height="48px"></a>
 </div>
+<!-- CONNECT4 -->
+<!-- CONNECT4 -->
 <p align="center">
 <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
