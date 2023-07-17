@@ -45,7 +45,7 @@ def updateReadme(name, ID, info, board, leaderboard, history, stats, opened, mov
     with open("README.md", "r") as f:
         readme = f.read()
     readme = readme.split(f"<!-- {ID} -->\n")
-    readme[1] = f"""<details align="center"{opened}><summary><h2>{name}</h2></summary><p>
+    readme[1] = f"""<details align="center"{opened}><summary><h2>{name}</h2></summary>
 <table align="center">
 <tr></tr>
 <tr><td>
@@ -53,17 +53,17 @@ def updateReadme(name, ID, info, board, leaderboard, history, stats, opened, mov
 
 {board}
 {moves}
-<details align="left" open><summary><h3>History of moves for this game</h3></summary><p>
+<details align="left" open><summary><h3>History of moves for this game</h3></summary>
 
 {format_history(history)}
 </details>
 
-<details align="left" open><summary><h3>Top 10 most active players</h3></summary><p>
+<details align="left" open><summary><h3>Top 10 most active players</h3></summary>
 
 {format_leaderboard(leaderboard)}
 </details>
 
-<details align="left" open><summary><h3>Stats</h3></summary><p>
+<details align="left" open><summary><h3>Stats</h3></summary>
 
 {format_stats(stats)}
 </details>
