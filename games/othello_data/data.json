@@ -6,9 +6,17 @@
         0
     ],
     "leaderboard": {
-        "BenjaminHalko": 1
+        "BenjaminHalko": 3
     },
     "history": [
+        [
+            "\ud83d\udd35 D5",
+            "BenjaminHalko"
+        ],
+        [
+            "\ud83d\udfe2 C5",
+            "BenjaminHalko"
+        ],
         [
             "\ud83d\udd35 C4",
             "BenjaminHalko"
@@ -71,8 +79,8 @@
         [
             -1,
             -1,
-            -1,
-            -1,
+            1,
+            0,
             -1,
             -1,
             -1,
