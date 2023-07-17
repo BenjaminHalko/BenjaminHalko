@@ -188,7 +188,7 @@ def update_data(move, state):
     if "game_over" in data:
         info = f"<b>A game of Othello played on GitHub.</b><br>The game is currently over. {currentWinner}<br>Use the chart below to start a new game."
     
-    readmeMoves = '\n<details align="left"><summary><h3>Available Moves</h3></summary><p>\n<p align="left>'
+    readmeMoves = '\n<details align="left"><summary><h3>Available Moves</h3></summary>\n<p align="left>\n'
     for i,move in enumerate(moves):
         if i != 0: readmeMoves += ", "
         readmeMoves += f"<a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{chr(65+move[1])}{move[0]}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'>{chr(65+move[1])}{move[0]}</a>"
