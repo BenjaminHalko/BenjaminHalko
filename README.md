@@ -11,7 +11,7 @@
 	<a href="https://linkedin.com/in/BenjaminHalko/"><img src="assets/LinkedIn.svg" alt="LinkedIn" height="48px"></a>
 	<a href="https://ko-fi.com/BenjaminHalko"><img src="assets/KoFi.svg" alt="KoFi" height="48px"></a>
 </div>
-<h1>Profile Games</h1>
+<h1 align="center">Profile Games</h1>
 <!-- OTHELLO -->
 <details align="center" open><summary><h2>Othello</h2></summary><p>
 <table align="center">
@@ -116,6 +116,6 @@
 </table>
 </details>
 <!-- CONNECT4 -->
-<h1>GitHub Stats</h1>
+<h1 align="center">GitHub Stats</h1>
 <p align="center">
 <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
