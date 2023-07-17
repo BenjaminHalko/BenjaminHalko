@@ -36,12 +36,16 @@ def format_time(time):
     string += f"{int(seconds)} Seconds"
     return string
 
-def updateReadme(name, ID, info, board, leaderboard, history, stats, moves=""):
+def updateReadme(name, ID, info, board, leaderboard, history, stats, opened, moves=""):
+    if opened:
+        opened = " open"
+    else:
+        opened = ""
     readme = ""
     with open("README.md", "r") as f:
         readme = f.read()
     readme = readme.split(f"<!-- {ID} -->\n")
-    readme[1] = f"""<details align="center"><summary><h2>{name}</h2></summary><p>
+    readme[1] = f"""<details align="center"{opened}><summary><h2>{name}</h2></summary><p>
 <table align="center">
 <tr></tr>
 <tr><td>

@@ -195,7 +195,7 @@ def update_data(move, state):
         readmeMoves += f"<a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{chr(65+move[1])}{move[0]}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'>{chr(65+move[1])}{move[0]}</a>"
     readmeMoves += "</p>\n"
 
-    updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,readmeMoves)
+    updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,True,readmeMoves)
 
 # Main
 if __name__ == "__main__":
