@@ -11,6 +11,57 @@
 	<a href="https://linkedin.com/in/BenjaminHalko/"><img src="assets/LinkedIn.svg" alt="LinkedIn" height="48px"></a>
 	<a href="https://ko-fi.com/BenjaminHalko"><img src="assets/KoFi.svg" alt="KoFi" height="48px"></a>
 </div>
+<h1>Profile Games</h1>
+<!-- OTHELLO -->
+<details align="center"><summary><h2>Othello</h2></summary><p>
+<table align="center">
+<tr></tr>
+<tr><td>
+<p align="center"><b>A game of Othello played on GitHub.</b><br>🟢 Use the chart below to make your move. It is currently Green's turn. 🟢</p><p>
+
+|  | A | B | C | D | E | F | G | H |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 0 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+| 1 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+| 2 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+| 3 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+C3&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/blue.svg" alt="blue" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/green.svg" alt="green" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+| 4 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/blue.svg" alt="blue" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/blue.svg" alt="blue" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/blue.svg" alt="blue" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+| 5 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+C5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+E5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+| 6 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+| 7 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+
+
+<h3 align='left'>Available Moves</h3>
+<p align='left'><a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+C3&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'>C3</a>, <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+C5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'>C5</a>, <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+E5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'>E5</a></p>
+
+<details align="left" open><summary><h3>History of moves for this game</h3></summary><p>
+
+| Move | User |
+| :-: | :-: |
+| 🔵 C4 | [ @BenjaminHalko](https://github.com/BenjaminHalko) |
+
+</details>
+
+<details align="left" open><summary><h3>Top 10 most active players</h3></summary><p>
+
+| Moves | User |
+| :-: | :-: |
+| 1 | [ @BenjaminHalko](https://github.com/BenjaminHalko) |
+
+</details>
+
+<details align="left" open><summary><h3>Stats</h3></summary><p>
+
+| Stat | Value |
+| :-: | :-: |
+| Blue Wins | 0 |
+| Green Wins | 0 |
+
+</details>
+</td></tr>
+</table>
+</details>
+<!-- OTHELLO -->
 <!-- CONNECT4 -->
 <details align="center"><summary><h2>Connect 4</h2></summary><p>
 <table align="center">
@@ -64,55 +115,5 @@
 </table>
 </details>
 <!-- CONNECT4 -->
-<!-- OTHELLO -->
-<details align="center"><summary><h2>Othello</h2></summary><p>
-<table align="center">
-<tr></tr>
-<tr><td>
-<p align="center"><b>A game of Othello played on GitHub.</b><br>🟢 Use the chart below to make your move. It is currently Green's turn. 🟢</p><p>
-
-|  | A | B | C | D | E | F | G | H |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 0 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-| 1 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-| 2 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-| 3 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+C3&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/blue.svg" alt="blue" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/green.svg" alt="green" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-| 4 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/blue.svg" alt="blue" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/blue.svg" alt="blue" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/blue.svg" alt="blue" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-| 5 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+C5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+E5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-| 6 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-| 7 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-
-
-<h3 align='left'>Available Moves</h3>
-<p align='left'><a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+C3&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'>C3</a>, <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+C5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'>C5</a>, <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+E5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD'>E5</a></p>
-
-<details align="left" open><summary><h3>History of moves for this game</h3></summary><p>
-
-| Move | User |
-| :-: | :-: |
-| 🔵 C4 | [ @BenjaminHalko](https://github.com/BenjaminHalko) |
-
-</details>
-
-<details align="left" open><summary><h3>Top 10 most active players</h3></summary><p>
-
-| Moves | User |
-| :-: | :-: |
-| 1 | [ @BenjaminHalko](https://github.com/BenjaminHalko) |
-
-</details>
-
-<details align="left" open><summary><h3>Stats</h3></summary><p>
-
-| Stat | Value |
-| :-: | :-: |
-| Blue Wins | 0 |
-| Green Wins | 0 |
-
-</details>
-</td></tr>
-</table>
-</details>
-<!-- OTHELLO -->
 <p align="center">
 <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
