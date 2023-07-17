@@ -36,7 +36,7 @@ def format_time(time):
     string += f"{int(seconds)} Seconds"
     return string
 
-def updateReadme(name, ID, info, board, leaderboard, history, stats):
+def updateReadme(name, ID, info, board, leaderboard, history, stats, moves=""):
     readme = ""
     with open("README.md", "r") as f:
         readme = f.read()
@@ -47,21 +47,26 @@ def updateReadme(name, ID, info, board, leaderboard, history, stats):
 <tr><td>
 <p align="center">{info}</p><p>
 
-{board}<details align="left" open><summary><h3>History of moves for this game</h3></summary><p>
+{board}
+{moves}
+<details align="left" open><summary><h3>History of moves for this game</h3></summary><p>
 
-{format_history(history)}</details>
+{format_history(history)}
+</details>
 
 <details align="left" open><summary><h3>Top 10 most active players</h3></summary><p>
 
-{format_leaderboard(leaderboard)}</details>
+{format_leaderboard(leaderboard)}
+</details>
 
 <details align="left" open><summary><h3>Stats</h3></summary><p>
 
-{format_stats(stats)}</details>
+{format_stats(stats)}
+</details>
 </td></tr>
 </table>
 </details>
 """
     readme = f"<!-- {ID} -->\n".join(readme)
-    with open("README.md", "w") as f:
-        f.write(readme)
+    with open("README.md", "wb") as f:
+        f.write(readme.encode('utf8'))

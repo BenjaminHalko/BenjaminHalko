@@ -1,11 +1,11 @@
 import sys
 from common.readme import updateReadme, format_time
 from common.issue import GetInfo
-from common.data import load_data, save_data
+from common.data import load_common_data, save_data
 
 # Load data
-def get_data():
-    data, gameOver = load_data("games/connect4_data/data.json")
+def load_data():
+    data, gameOver = load_common_data("games/connect4_data/data.json")
 
     if "board" not in data or gameOver:
         data["board"] = [[-1] * 6 for i in range(8)]
@@ -68,7 +68,7 @@ def get_move():
 if __name__ == "__main__":
     issue, user = GetInfo()
     try:
-        data = get_data()
+        data = load_data()
         move = get_move()
         success, state = make_move()
         print(state)
@@ -79,11 +79,11 @@ if __name__ == "__main__":
 
         currentWinner = ""
         previousColor = "Red" if data["turn"] == 0 else "Yellow"
+        previousDot = '🔴' if data["turn"] == 0 else '🟡'
         data["history"] = [[f"{'🔴' if data['turn'] == 0 else '🟡'} Column {move}", user]] + data["history"]
 
         if state == "win":
-            winningDot = '🔴' if data['turn'] == 0 else '🟡' 
-            currentWinner = winningDot+" "+previousColor+" wins!"+" "+winningDot
+            currentWinner = f"{previousDot} {previousColor} wins! {previousDot}"
         elif state == "draw":
             currentWinner = "🔴 It is a draw. 🟡"
         

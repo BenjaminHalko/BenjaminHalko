@@ -2,7 +2,7 @@ import json
 from os import path
 import time
 
-def load_data(file):
+def load_common_data(file):
     if path.exists(file):
         with open(file, "r") as f:
             data = json.load(f)
