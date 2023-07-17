@@ -1,14 +1,18 @@
 {
-    "turn": 0,
+    "turn": 1,
     "games_won": [
         0,
         0,
         0
     ],
     "leaderboard": {
-        "BenjaminHalko": 8
+        "BenjaminHalko": 9
     },
     "history": [
+        [
+            "\ud83d\udd35 D2",
+            "BenjaminHalko"
+        ],
         [
             "\ud83d\udfe2 E2",
             "BenjaminHalko"
@@ -70,7 +74,7 @@
             -1,
             -1,
             -1,
-            -1,
+            0,
             1,
             -1,
             -1,
@@ -80,7 +84,7 @@
             -1,
             -1,
             1,
-            1,
+            0,
             1,
             0,
             -1,
@@ -90,7 +94,7 @@
             -1,
             -1,
             1,
-            1,
+            0,
             1,
             -1,
             -1,
