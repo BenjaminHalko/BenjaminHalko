@@ -12,7 +12,7 @@
 	<a href="https://ko-fi.com/BenjaminHalko"><img src="assets/KoFi.svg" alt="KoFi" height="48px"></a>
 </div>
 <!-- CONNECT4 -->
-<details align="center" open><summary><h2>Connect 4</h2></summary><p>
+<details align="center"><summary><h2>Connect 4</h2></summary><p>
 <table align="center">
 <tr></tr>
 <tr><td>
@@ -64,5 +64,7 @@
 </table>
 </details>
 <!-- CONNECT4 -->
+<!-- OTHELLO -->
+<!-- OTHELLO -->
 <p align="center">
 <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
