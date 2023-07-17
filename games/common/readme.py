@@ -53,17 +53,17 @@ def updateReadme(name, ID, info, board, leaderboard, history, stats, opened, mov
 
 {board}
 {moves}
-<details align="left" open><summary><h3>History of moves for this game</h3></summary>
+<details align="left"><summary><h3>History of moves for this game</h3></summary>
 
 {format_history(history)}
 </details>
 
-<details align="left" open><summary><h3>Top 10 most active players</h3></summary>
+<details align="left"><summary><h3>Top 10 most active players</h3></summary>
 
 {format_leaderboard(leaderboard)}
 </details>
 
-<details align="left" open><summary><h3>Stats</h3></summary>
+<details align="left"><summary><h3>Stats</h3></summary>
 
 {format_stats(stats)}
 </details>
