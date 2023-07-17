@@ -116,5 +116,6 @@
 </table>
 </details>
 <!-- CONNECT4 -->
+<h1>GitHub Stats</h1>
 <p align="center">
 <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
