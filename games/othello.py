@@ -184,7 +184,7 @@ def update_data(move, state):
         stats["Average Green Pieces"] = sum(data["average_green"]) / len(data["average_green"])
         stats["Average Time per Game"] = format_time(sum(data["game_times"]) / len(data["game_times"]))
 
-    info = f"<b>A game of Othello played on GitHub.</b><br>Click on a white dot to make your move.<br>{dot} It is currently {color}'s turn. {dot}"
+    info = f"<b>A game of Othello played on GitHub.</b><br>Click on a white dot to make your move.<br>Blue has {piece_count[0]} pieces. Green has {piece_count[1]} pieces.<br>{dot} It is currently {color}'s turn. {dot}"
     if "game_over" in data:
         info = f"<b>A game of Othello played on GitHub.</b><br>The game is currently over. {currentWinner}<br>Use the chart below to start a new game."
     
