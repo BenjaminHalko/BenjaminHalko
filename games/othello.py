@@ -195,7 +195,7 @@ def update_data(move, state):
     readmeMoves += "</p>\n"
     readmeMoves += "</details>\n"
 
-    updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,True,readmeMoves)
+    updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,False,readmeMoves)
 
 # Main
 if __name__ == "__main__":
