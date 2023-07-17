@@ -41,7 +41,7 @@ def updateReadme(name, ID, info, board, leaderboard, history, stats, moves=""):
     with open("README.md", "r") as f:
         readme = f.read()
     readme = readme.split(f"<!-- {ID} -->\n")
-    readme[1] = f"""<details align="center" open><summary><h2>{name}</h2></summary><p>
+    readme[1] = f"""<details align="center"><summary><h2>{name}</h2></summary><p>
 <table align="center">
 <tr></tr>
 <tr><td>
@@ -69,4 +69,4 @@ def updateReadme(name, ID, info, board, leaderboard, history, stats, moves=""):
 """
     readme = f"<!-- {ID} -->\n".join(readme)
     with open("README.md", "wb") as f:
-        f.write(readme.encode('utf8'))
+        f.write(readme.encode("utf-8"))

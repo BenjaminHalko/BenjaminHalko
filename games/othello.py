@@ -81,9 +81,9 @@ def make_move():
 # Get move
 def get_move():
     if issue.title.lower().startswith("othello:"):
-        return [int(i) for i in issue.title.split(":")[1].split(' ')[:-2]]
+        input = issue.title.split(":")[1].split(' ')[-1]
+        return [int(input[1]), ord(input[0].upper()) - 65]
     return [-1, -1]
-
 
 # Generate Valid Moves for Othello
 def generate_moves(nextTurn):
@@ -115,7 +115,7 @@ def update_data(move, state):
     currentWinner = ""
     previousColor = "Blue" if data["turn"] == 0 else "Green"
     previousDot = "🔵" if data["turn"] == 0 else "🟢"
-    data["history"] = [[f"{'🔵' if data['turn'] == 0 else '🟢'} {move[1]}{chr(65+move[0])}", user]] + data["history"]
+    data["history"] = [[f"{'🔵' if data['turn'] == 0 else '🟢'} {chr(65+move[1])}{move[0]}", user]] + data["history"]
 
     # Get count
     piece_count = [0, 0]
@@ -157,11 +157,17 @@ def update_data(move, state):
 
     # Create Board
     imgs = ['common/blank.png', 'othello_data/blue.svg', 'othello_data/green.svg']
-    value = '|  | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |\n'
+    value = '|  | A | B | C | D | E | F | G | H |\n| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |\n'
+    
+    movesAsStrings = [f'{i}-{j}' for i,j in moves]
+    
     for i in range(8):
-        value += f'| {chr(65+i)} |'
+        value += f'| {i} |'
         for j in range(8):
-            value += f' {("🔵" if data["board"][i][j] == 0 else "🟢") if data["board"][i][j] != -1 else ".."} |'
+            if f'{i}-{j}' in movesAsStrings:
+                value += f" <a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{chr(65+j)}{i}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'><img src='https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/othello_data/marker.svg' alt='marker' width='50px'></a> |"
+            else:
+                value += f' <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/{imgs[data["board"][i][j]+1]}" alt="{imgs[data["board"][i][j]+1].split("/")[1].split(".")[0]}" width="50px"> |'
         value += '\n'
 
     # Update stats
@@ -186,7 +192,7 @@ def update_data(move, state):
     readmeMoves = "\n<h3 align='left'>Available Moves</h3>\n<p align='left'>"
     for i,move in enumerate(moves):
         if i != 0: readmeMoves += ", "
-        readmeMoves += f"<a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{move[1]}{chr(65+move[0])}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'>{move[1]}{chr(65+move[0])}</a>"
+        readmeMoves += f"<a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{chr(65+move[1])}{move[0]}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'>{chr(65+move[1])}{move[0]}</a>"
     readmeMoves += "</p>\n"
 
     updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,readmeMoves)
@@ -197,7 +203,7 @@ if __name__ == "__main__":
     try:
         data = load_data()
         turn = data["turn"]
-        
+
         move = get_move()
         success, state = make_move()
         print(state)
