@@ -132,7 +132,6 @@
 </details>
 <!-- OTHELLO -->
 <h1 align="center" style="vertical-align: top">GitHub Stats</h1>
-<div>
 <a href="https://github.com/BenjaminHalko">
 	<img src="header.svg" alt="header" width="49%">
 </a>
@@ -157,23 +156,20 @@
 	<img src="habits.svg" alt="habits" width="49%">
 </a>
 
-<a href="https://github.com/BenjaminHalko">
-	<picture>
+<a href="https://wakatime.com/@benjaminhalko">
+	<picture style="width:49%">
 	<source
 		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact"
 		media="(prefers-color-scheme: dark)"
-		width="49%"
 	/>
 	<source
 		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&layout=compact"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		width="49%"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact" width="49%">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact">
 	</picture>
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="achievements.svg" alt="achievements" width="49%">
+	<img src="habits.svg" alt="habits" width="49%">
 </a>
-</div>
