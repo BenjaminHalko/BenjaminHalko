@@ -184,18 +184,18 @@ def update_data(move, state):
         stats["Average Green Pieces"] = sum(data["average_green"]) / len(data["average_green"])
         stats["Average Time per Game"] = format_time(sum(data["game_times"]) / len(data["game_times"]))
 
+    readmeMoves = ""
     info = f"<b>A game of Othello played on GitHub.</b><br>Click on a white dot to make your move.<br>Blue has {piece_count[0]} pieces. Green has {piece_count[1]} pieces.<br>{dot} It is currently {color}'s turn. {dot}"
     if "game_over" in data:
         info = f"<b>A game of Othello played on GitHub.</b><br>The game is currently over. {currentWinner}<br>Use the chart below to start a new game."
-    
-    readmeMoves = '\n<details align="left"><summary><h3>Available Moves</h3></summary>\n<p align="left">\n'
-    for i,move in enumerate(moves):
-        if i != 0: readmeMoves += ", "
-        readmeMoves += f"<a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{chr(65+move[1])}{move[0]}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'>{chr(65+move[1])}{move[0]}</a>"
-    readmeMoves += "</p>\n"
-    readmeMoves += "</details>\n"
+        readmeMoves = '\n<details align="left"><summary><h3>Available Moves</h3></summary>\n<p align="left">\n'
+        for i,move in enumerate(moves):
+            if i != 0: readmeMoves += ", "
+            readmeMoves += f"<a href='https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Othello:+{chr(65+move[1])}{move[0]}&body=Please+do+not+change+the+title.+Just+click+\"Submit+new+issue\".+You+do+not+need+to+do+anything+else.+%3AD'>{chr(65+move[1])}{move[0]}</a>"
+        readmeMoves += "</p>\n"
+        readmeMoves += "</details>\n"
 
-    updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,False)
+    updateReadme("Othello","OTHELLO",info,value,data["leaderboard"],data["history"],stats,readmeMoves)
 
 # Main
 if __name__ == "__main__":
