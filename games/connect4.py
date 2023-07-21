@@ -128,7 +128,7 @@ if __name__ == "__main__":
         if "game_over" in data:
             info = f"<b>A game of Connect 4 played on GitHub.</b><br>The game is currently over. {currentWinner}<br>Click on a column to start a new game."
 
-        updateReadme("Connect 4","CONNECT4",info,value, data["leaderboard"], data["history"],stats,True)
+        updateReadme("Connect 4","CONNECT4",info,value, data["leaderboard"], data["history"],stats)
 
         # Create comment
         issue.create_comment("Thanks for playing! Don't forget to star this repo if you enjoyed it!")
