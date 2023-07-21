@@ -13,12 +13,6 @@ jobs:
                 echo "GITHUB_TOKEN=${{ secrets.GAME_TOKEN }}" >> $GITHUB_ENV
                 echo "REPOSITORY_OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
 
-            - name: Reply to issue
-              uses: EddieHubCommunity/gh-action-community/src/welcome@main
-              with:
-                github-token: ${{ secrets.GAME_TOKEN }}
-                issue-message: "Thanks for playing Connect4! Please wait while I make your move.\n✨ If you had fun, please consider starring the repository! ✨"
-
             - uses: actions/checkout@v3
 
             - name: Set up Python 3.8
@@ -48,12 +42,6 @@ jobs:
                 echo "GITHUB_TOKEN=${{ secrets.GAME_TOKEN }}" >> $GITHUB_ENV
                 echo "REPOSITORY_OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
 
-            - name: Reply to issue
-              uses: EddieHubCommunity/gh-action-community/src/welcome@main
-              with:
-                github-token: ${{ secrets.GAME_TOKEN }}
-                issue-message: "Thanks for playing Othello! Please wait while I make your move.\n✨ If you had fun, please consider starring the repository! ✨"
-
             - uses: actions/checkout@v3
 
             - name: Set up Python 3.8
@@ -73,3 +61,4 @@ jobs:
                 git add .
                 git commit -m "${{ github.event.issue.title }} by ${{ github.event.issue.user.login }}"
                 git push
+  
