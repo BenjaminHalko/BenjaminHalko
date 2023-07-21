@@ -103,8 +103,6 @@ jobs:
           base: ""
           config_timezone: America/Vancouver
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: bytes,percentage,lines
           plugin_languages_ignored: yacc,java
 
   achievements:
@@ -122,5 +120,4 @@ jobs:
           base: ""
           config_timezone: America/Vancouver
           plugin_achievements: yes
-          plugin_achievements_display: compact
           plugin_achievements_secrets: yes
