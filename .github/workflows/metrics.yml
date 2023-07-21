@@ -103,7 +103,8 @@ jobs:
           base: ""
           config_timezone: America/Vancouver
           plugin_languages: yes
-          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes,percentage,lines
           plugin_languages_ignored: yacc,java
 
   achievements:
