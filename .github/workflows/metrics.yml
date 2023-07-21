@@ -111,7 +111,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: redlinejoes/metrics@master
         with:
           filename: langauges.svg
           token: ${{ secrets.METRICS_TOKEN }}
