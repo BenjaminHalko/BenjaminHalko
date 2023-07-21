@@ -157,16 +157,18 @@
 </a>
 
 <a href="https://wakatime.com/@benjaminhalko">
-	<picture style="width:49%">
+	<picture>
 	<source
 		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact"
 		media="(prefers-color-scheme: dark)"
+		width="49%"
 	/>
 	<source
 		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&layout=compact"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		width="49%"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact" width="49%">
 	</picture>
 </a>
 
