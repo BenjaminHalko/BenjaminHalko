@@ -110,7 +110,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: redlinejoes/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: code_snippet.svg
           token: ${{ secrets.METRICS_TOKEN }}
