@@ -158,16 +158,18 @@
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<picture width="49%">
+	<picture>
 	<source
 		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true"
 		media="(prefers-color-scheme: dark)"
+		width="49%"
 	/>
 	<source
 		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		width="49%"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true" width="49%">
 	</picture>
 </a>
 
