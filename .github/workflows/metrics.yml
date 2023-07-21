@@ -114,7 +114,7 @@ jobs:
     steps:
       - uses: redlinejoes/metrics@master
         with:
-          filename: langauges.svg
+          filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: BenjaminHalko
@@ -122,5 +122,5 @@ jobs:
           base: ""
           config_timezone: America/Vancouver
           plugin_achievements: yes
-
-  
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
