@@ -2,7 +2,7 @@
 <p align="center">My other hobby includes spending hours automating tasks (usually in Python) that only take 5 minutes.</p>
 <p align="center">
 <a href="https://github.com/BenjaminHalko">
-	<img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true" alt="stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats">
 </a>
 <div align="center">
 	<a href="https://benjamin-halko.itch.io/"><img src="assets/Itch-io.svg" alt="itch.io" height="48px"></a>
@@ -134,25 +134,44 @@
 <h1 align="center">GitHub Stats</h1>
 <div align="center">
 <a href="https://github.com/BenjaminHalko">
-	<img src="header.svg" alt="header">
+	<img src="header.svg" alt="header" width="49%">
 </a>
-<br>
+
+<a href="https://github.com/BenjaminHalko">
+	<img src="languages.svg" alt="languages" width="49%">
+</a>
+
 <a href="https://github.com/BenjaminHalko?tab=repositories">
-	<img src="repositories.svg" alt="header">
+	<img src="repositories.svg" alt="header" width="49%">
 </a>
+
 <a href="https://github.com/BenjaminHalko">
-	<img src="activity_community.svg" alt="activity & community">
+	<img src="activity_community.svg" alt="activity & community" width="49%">
 </a>
+
 <a href="https://github.com/BenjaminHalko">
-	<img src="iso_calendar.svg" alt="iso calendar">
+	<img src="iso_calendar.svg" alt="iso calendar" width="49%">
 </a>
+
 <a href="https://github.com/BenjaminHalko">
-	<img src="habits.svg" alt="habits">
+	<img src="habits.svg" alt="habits" width="49%">
 </a>
+
 <a href="https://github.com/BenjaminHalko">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminhalko&theme=github_dark&hide_border=true&hide=yacc,java&langs_count=12&layout=compact" alt="languages">
+	<picture width="49%">
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true"
+		media="(prefers-color-scheme: dark)"
+	/>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true">
+	</picture>
 </a>
+
 <a href="https://github.com/BenjaminHalko">
-	<img src="achievements.svg" alt="achievements">
+	<img src="achievements.svg" alt="achievements" width="49%">
 </a>
 </div>
