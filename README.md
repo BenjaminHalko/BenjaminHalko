@@ -156,6 +156,14 @@
 	<img src="habits.svg" alt="habits" width="49%">
 </a>
 
+<a href="https://github.com/BenjaminHalko">
+	<img src="code_snippet.svg" alt="code snippet" width="49%">
+</a>
+
+<a href="https://github.com/BenjaminHalko">
+	<img src="achievements.svg" alt="achievements" width="49%">
+</a>
+
 <a href="https://wakatime.com/@benjaminhalko">
 	<picture>
 	<source
@@ -170,8 +178,4 @@
 	/>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact" width="49%">
 	</picture>
-</a>
-
-<a href="https://github.com/BenjaminHalko">
-	<img src="achievements.svg" alt="achievements" width="49%">
 </a>
