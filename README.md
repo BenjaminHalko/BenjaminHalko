@@ -2,8 +2,21 @@
 <p align="center">My other hobby includes spending hours automating tasks (usually in Python) that only take 5 minutes.</p>
 <p align="center">
 <a href="https://github.com/BenjaminHalko">
-	<img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats">
+	<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
+		media="(prefers-color-scheme: dark)"
+		width="49%"
+	/>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000"
+		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		width="49%"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="49%">
+	</picture>
 </a>
+
 <div align="center">
 	<a href="https://benjamin-halko.itch.io/"><img src="assets/Itch-io.svg" alt="itch.io" height="48px"></a>
 	<a href="https://gx.games/studios/001cf107-345b-4227-b45e-d54580fe019c/"><img src="assets/GXGames.svg" alt="GX Games" height="48px"></a>
