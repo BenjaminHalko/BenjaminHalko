@@ -4,37 +4,122 @@ on:
     - cron: "0 7 * * *"
   workflow_dispatch:
 jobs:
-  github-metrics:
+  header:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          user: BenjaminHalko
+          filename: header.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: BenjaminHalko
           template: classic
-          base: header,activity,community,repositories,metadata
+          base: header
           config_timezone: America/Vancouver
-          plugin_achievements: yes
-          plugin_code: yes
-          plugin_code_visibility: public
-          plugin_habits: yes
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+
+  repositories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: BenjaminHalko
+          template: classic
+          base: repositories
+          config_timezone: America/Vancouver
+          plugin_traffic: yes
+          plugin_lines: yes
+
+  activity_community:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: activity_community.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: BenjaminHalko
+          template: classic
+          base: activity, community
+          config_timezone: America/Vancouver
+
+  iso_calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: iso_calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: BenjaminHalko
+          template: classic
+          base: ""
+          config_timezone: America/Vancouver
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: BenjaminHalko
+          template: classic
+          base: ""
+          config_timezone: America/Vancouver
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+    
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: langauges.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: BenjaminHalko
+          template: classic
+          base: ""
+          config_timezone: America/Vancouver
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_ignored: yacc,java
-          plugin_lines: yes
-          plugin_notable: no
-          plugin_notable_indepth: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit,pull_request
-          plugin_traffic: yes
-          plugin_wakatime: yes
-          plugin_wakatime_days: 180
-          plugin_wakatime_limit: 15
-          plugin_wakatime_sections: time,languages,languages-graphs,editors
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+  achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: langauges.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: BenjaminHalko
+          template: classic
+          base: ""
+          config_timezone: America/Vancouver
+          plugin_achievements: yes
+
+  
