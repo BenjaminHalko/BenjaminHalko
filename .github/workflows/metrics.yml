@@ -95,7 +95,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: langauges.svg
+          filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: BenjaminHalko
