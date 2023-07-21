@@ -173,5 +173,5 @@
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="habits.svg" alt="habits" width="49%">
+	<img src="achievements.svg" alt="achievements" width="49%">
 </a>
