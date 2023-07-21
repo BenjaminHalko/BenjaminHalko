@@ -1,7 +1,9 @@
 <p align="center">👋 Hello, I'm Benjamin! I mainly spend my time making games in GameMaker. I also somehow became a web developer by complete accident...</p>
 <p align="center">My other hobby includes spending hours automating tasks (usually in Python) that only take 5 minutes.</p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+<a href="https://github.com/BenjaminHalko">
+	<img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true" alt="stats">
+</a>
 <div align="center">
 	<a href="https://benjamin-halko.itch.io/"><img src="assets/Itch-io.svg" alt="itch.io" height="48px"></a>
 	<a href="https://gx.games/studios/001cf107-345b-4227-b45e-d54580fe019c/"><img src="assets/GXGames.svg" alt="GX Games" height="48px"></a>
@@ -130,5 +132,27 @@
 </details>
 <!-- OTHELLO -->
 <h1 align="center">GitHub Stats</h1>
-<p align="center">
-<img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/github-metrics.svg" alt="Metrics">
+<div align="center">
+<a href="https://github.com/BenjaminHalko">
+	<img src="header.svg" alt="header">
+</a>
+<br>
+<a href="https://github.com/BenjaminHalko?tab=repositories">
+	<img src="repositories.svg" alt="header">
+</a>
+<a href="https://github.com/BenjaminHalko">
+	<img src="activity_community.svg" alt="activity & community">
+</a>
+<a href="https://github.com/BenjaminHalko">
+	<img src="iso_calendar.svg" alt="iso calendar">
+</a>
+<a href="https://github.com/BenjaminHalko">
+	<img src="habits.svg" alt="habits">
+</a>
+<a href="https://github.com/BenjaminHalko">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminhalko&theme=github_dark&hide_border=true&hide=yacc,java&langs_count=12&layout=compact" alt="languages">
+</a>
+<a href="https://github.com/BenjaminHalko">
+	<img src="achievements.svg" alt="achievements">
+</a>
+</div>
