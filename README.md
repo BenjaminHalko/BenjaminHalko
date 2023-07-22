@@ -1,5 +1,30 @@
-<p align="center">👋 Hello, I'm Benjamin! I mainly spend my time making games in GameMaker. I also somehow became a web developer by complete accident...</p>
-<p align="center">My other hobby includes spending hours automating tasks (usually in Python) that only take 5 minutes.</p>
+<h1 align="center">👋 Hello, I'm Benjamin!</h1>
+<div align="center">
+	<a href="https://benjamin-halko.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge" alt="itch.io"></a>
+	<a href="https://gx.games/studios/001cf107-345b-4227-b45e-d54580fe019c/"><img src="https://img.shields.io/badge/GX%20Games-fc1e4f?style=for-the-badge" alt="GX Games"></a>
+	<a href="https://play.google.com/store/apps/dev?id=6021828409391936642"><img src="https://img.shields.io/badge/Google%20Play-34a853?logo=googleplay&logoColor=white&style=for-the-badge" alt="Google Play"></a>
+	<a href="https://www.youtube.com/BenjaminHalko"><img src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
+	<a href="https://github.com/BenjaminHalko"><img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+	<a href="https://linkedin.com/in/BenjaminHalko/"><img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+	<a href="https://ko-fi.com/BenjaminHalko"><img src="https://img.shields.io/badge/kofi-12b9f2?logo=kofi&logoColor=white&style=for-the-badge" alt="KoFi"></a>
+</div>
+<table align="center">
+<tr>
+	<td>
+		I mainly spend my time <a href="https://benjamin-halko.itch.io">making games</a> in GameMaker, though I also <a href="https://github.com/BenjaminHalko/Cho-RealEstate-Website">design websites</a> in Node.js and <a href="https://github.com/BenjaminHalko/WiiMusicEditorPlus">create tools</a> in Python.
+	</td>
+</tr>
+<tr>
+	<td>
+		🌱 I am currently attempting to become a game programmer at <a href="lasallecollegevancouver.com/vfx-game-design/game-programming-bachelor">LaSalle College</a>.
+	</td>
+</tr>
+<tr>
+	<td>
+		💬 My area of expertise includes <b>GameMaker</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PowerShell</b>, and <b>C++</b>.
+	</td>
+</tr>
+</table>
 <p align="center">
 <a href="https://github.com/BenjaminHalko">
 	<picture>
@@ -12,14 +37,9 @@
 </a>
 
 <div align="center">
-	<a href="https://benjamin-halko.itch.io/"><img src="assets/Itch-io.svg" alt="itch.io" height="48px"></a>
-	<a href="https://gx.games/studios/001cf107-345b-4227-b45e-d54580fe019c/"><img src="assets/GXGames.svg" alt="GX Games" height="48px"></a>
-	<a href="https://play.google.com/store/apps/dev?id=6021828409391936642"><img src="assets/GooglePlay.svg" alt="Google Play" height="48px"></a>
-	<a href="https://www.youtube.com/BenjaminHalko"><img src="assets/YouTube.svg" alt="YouTube" height="48px"></a>
-	<a href="https://github.com/BenjaminHalko"><img src="assets/GitHub.svg" alt="GitHub" height="48px">
-	<a href="https://linkedin.com/in/BenjaminHalko/"><img src="assets/LinkedIn.svg" alt="LinkedIn" height="48px"></a>
-	<a href="https://ko-fi.com/BenjaminHalko"><img src="assets/KoFi.svg" alt="KoFi" height="48px"></a>
+	
 </div>
+
 <h1 align="center">Profile Games</h1>
 <!-- CONNECT4 -->
 <details align="center"><summary><h2>Connect 4</h2></summary>
