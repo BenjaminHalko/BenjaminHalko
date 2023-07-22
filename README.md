@@ -4,10 +4,6 @@
 <a href="https://github.com/BenjaminHalko">
 	<picture>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
-		media="(prefers-color-scheme: dark)"
-	/>
-	<source
 		srcset="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	/>
@@ -142,46 +138,106 @@
 </details>
 <!-- OTHELLO -->
 <h1 align="center" style="vertical-align: top">GitHub Stats</h1>
+<div align="center">
 <a href="https://github.com/BenjaminHalko">
-	<img src="header.svg" alt="header" width="49%">
+	<picture>
+		<source 
+			srcset="header.svg"
+			media="(min-width: 800px)"
+			width="49%"
+			alt="header"
+  		/>
+		<img src="header.svg" alt="header">
+		<br>
+	</picture>
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="languages.svg" alt="languages" width="49%">
+	<picture>
+		<source 
+			srcset="languages.svg"
+			media="(min-width: 800px)"
+			width="49%"
+  		/>
+		<img src="languages.svg" alt="languages">
+		<br>
+	</picture>
 </a>
 
 <a href="https://github.com/BenjaminHalko?tab=repositories">
-	<img src="repositories.svg" alt="header" width="49%">
+	<picture>
+		<source 
+			srcset="repositories.svg"
+			media="(min-width: 800px)"
+			width="49%"
+			alt="repositories"
+  		/>
+		<img src="repositories.svg" alt="repositories">
+		<br>
+	</picture>
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="activity_community.svg" alt="activity & community" width="49%">
+	<picture>
+		<source 
+			srcset="activity_community.svg"
+			media="(min-width: 800px)"
+			width="49%"
+			alt="activity & community"
+  		/>
+		<img src="activity_community.svg" alt="activity & community">
+		<br>
+	</picture>
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="iso_calendar.svg" alt="iso calendar" width="49%">
+	<picture>
+		<source 
+			srcset="iso_calendar.svg"
+			media="(min-width: 800px)"
+			width="49%"
+			alt="iso calendar"
+  		/>
+		<img src="iso_calendar.svg" alt="iso calendar">
+		<br>
+	</picture>
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="habits.svg" alt="habits" width="49%">
+	<picture>
+		<source 
+			srcset="habits.svg"
+			media="(min-width: 800px)"
+			width="49%"
+			alt="habits"
+  		/>
+		<img src="habits.svg" alt="habits">
+		<br>
+	</picture>
 </a>
 
 <a href="https://wakatime.com/@benjaminhalko">
 	<picture>
 	<source
 		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact&bg_color=00000000"
-		media="(prefers-color-scheme: dark)"
+		media="(prefers-color-scheme: dark) and (min-width: 800)"
 		width="49%"
+		alt="wakatime stats"
 	/>
-	<source
-		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&layout=compact&bg_color=00000000"
-		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		width="49%"
-	/>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact&bg_color=00000000" width="49%">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact&bg_color=00000000">
 	</picture>
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="achievements.svg" alt="achievements" width="49%">
+	<picture>
+		<source 
+			srcset="achievements.svg"
+			media="(min-width: 800px)"
+			width="49%"
+			alt="achievements"
+  		/>
+		<img src="achievements.svg" alt="achievements">
+		<br>
+	</picture
 </a>
+</div>
