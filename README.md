@@ -140,81 +140,27 @@
 <h1 align="center" style="vertical-align: top">GitHub Stats</h1>
 <div align="center">
 <a href="https://github.com/BenjaminHalko">
-	<picture>
-		<source 
-			srcset="header.svg"
-			media="(min-width: 800px)"
-			width="49%"
-			alt="header"
-  		/>
-		<img src="header.svg" alt="header">
-		<br>
-	</picture>
+	<img src="header.svg" alt="header">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<picture>
-		<source 
-			srcset="languages.svg"
-			media="(min-width: 800px)"
-			width="49%"
-			alt="languages"
-  		/>
-		<img src="languages.svg" alt="languages">
-		<br>
-	</picture>
+	<img src="languages.svg" alt="languages">
 </a>
 
 <a href="https://github.com/BenjaminHalko?tab=repositories">
-	<picture>
-		<source 
-			srcset="repositories.svg"
-			media="(min-width: 800px)"
-			width="49%"
-			alt="repositories"
-  		/>
-		<img src="repositories.svg" alt="repositories">
-		<br>
-	</picture>
+	<img src="repositories.svg" alt="repositories">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<picture>
-		<source 
-			srcset="activity_community.svg"
-			media="(min-width: 800px)"
-			width="49%"
-			alt="activity & community"
-  		/>
-		<img src="activity_community.svg" alt="activity & community">
-		<br>
-	</picture>
+	<img src="activity_community.svg" alt="activity & community">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<picture>
-		<source 
-			srcset="iso_calendar.svg"
-			media="(min-width: 800px)"
-			width="49%"
-			alt="iso calendar"
-  		/>
-		<img src="iso_calendar.svg" alt="iso calendar">
-		<br>
-	</picture>
+	<img src="iso_calendar.svg" alt="iso calendar">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<picture>
-		<source 
-			srcset="habits.svg"
-			media="(min-width: 800px)"
-			width="49%"
-			alt="habits"
-  		/>
-		<img src="habits.svg" alt="habits">
-		<br>
-	</picture>
+	<img src="habits.svg" alt="habits">
 </a>
 
 <a href="https://wakatime.com/@benjaminhalko">
@@ -229,15 +175,6 @@
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<picture>
-		<source 
-			srcset="achievements.svg"
-			media="(min-width: 800px)"
-			width="49%"
-			alt="achievements"
-  		/>
-		<img src="achievements.svg" alt="achievements">
-		<br>
-	</picture
+	<img src="achievements.svg" alt="achievements">
 </a>
 </div>
