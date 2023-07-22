@@ -29,16 +29,21 @@
 <a href="https://github.com/BenjaminHalko">
 	<picture>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000"
-		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		srcset="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
+		media="(prefers-color-scheme: dark)"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+	<img src="https://github-readme-stats.vercel.app/api?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000">
 	</picture>
 </a>
-
-<div align="center">
-	
-</div>
+<a href="https://github.com/BenjaminHalko">
+	<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc&card_width=340px"
+		media="(prefers-color-scheme: dark)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc&card_width=340px">
+	</picture>
+</a>
 
 <h1 align="center">Profile Games</h1>
 <!-- CONNECT4 -->
@@ -157,12 +162,8 @@
 </table>
 </details>
 <!-- OTHELLO -->
-<h1 align="center">GitHub Stats</h1>
+<h1 align="center">More Stats!</h1>
 <div align="center">
-<a href="https://github.com/BenjaminHalko">
-	<img align="center" src="header.svg" alt="header" width="420px">
-</a>
-
 <a href="https://github.com/BenjaminHalko?tab=repositories">
 	<img src="repositories.svg" alt="repositories" width="412px">
 </a>
