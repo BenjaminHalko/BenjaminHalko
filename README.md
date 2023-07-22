@@ -140,11 +140,11 @@
 <h1 align="center" style="vertical-align: top">GitHub Stats</h1>
 <div align="center">
 <a href="https://github.com/BenjaminHalko">
-	<img src="header.svg" alt="header" width="420px">
+	<img src="header.svg" alt="header" width="410px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="languages.svg" alt="languages" width="420px">
+	<img src="languages.svg" alt="languages" width="410px">
 </a>
 
 <a href="https://github.com/BenjaminHalko?tab=repositories">
