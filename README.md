@@ -137,30 +137,30 @@
 </table>
 </details>
 <!-- OTHELLO -->
-<h1 align="center" style="vertical-align: top">GitHub Stats</h1>
+<h1 align="center">GitHub Stats</h1>
 <div align="center">
 <a href="https://github.com/BenjaminHalko">
-	<img src="header.svg" alt="header" width="413px">
+	<img src="header.svg" alt="header" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="languages.svg" alt="languages" width="413px">
+	<img src="languages.svg" alt="languages" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko?tab=repositories">
-	<img src="repositories.svg" alt="repositories" width="400px">
+	<img src="repositories.svg" alt="repositories" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="activity_community.svg" alt="activity & community" width="400px">
+	<img src="activity_community.svg" alt="activity & community" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="iso_calendar.svg" alt="iso calendar" width="400px">
+	<img src="iso_calendar.svg" alt="iso calendar" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="habits.svg" alt="habits">
+	<img src="habits.svg" alt="habits" width="412px">
 </a>
 
 <a href="https://wakatime.com/@benjaminhalko">
@@ -169,12 +169,13 @@
 		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact&bg_color=00000000"
 		media="(prefers-color-scheme: dark)"
 		alt="wakatime stats"
+		width="412px"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&layout=compact&bg_color=00000000" alt="wakatime stats">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&layout=compact&bg_color=00000000" alt="wakatime stats" width="412px">
 	</picture>
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="achievements.svg" alt="achievements">
+	<img src="achievements.svg" alt="achievements" width="412px">
 </a>
 </div>
