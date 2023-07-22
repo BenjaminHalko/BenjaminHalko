@@ -158,6 +158,7 @@
 			srcset="languages.svg"
 			media="(min-width: 800px)"
 			width="49%"
+			alt="languages"
   		/>
 		<img src="languages.svg" alt="languages">
 		<br>
