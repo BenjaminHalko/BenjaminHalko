@@ -140,23 +140,23 @@
 <h1 align="center" style="vertical-align: top">GitHub Stats</h1>
 <div align="center">
 <a href="https://github.com/BenjaminHalko">
-	<img src="header.svg" alt="header" width="445px">
+	<img src="header.svg" alt="header" width="400px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="languages.svg" alt="languages" width="445px">
+	<img src="languages.svg" alt="languages" width="400px">
 </a>
 
 <a href="https://github.com/BenjaminHalko?tab=repositories">
-	<img src="repositories.svg" alt="repositories" width="445px">
+	<img src="repositories.svg" alt="repositories" width="400px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="activity_community.svg" alt="activity & community" width="445px">
+	<img src="activity_community.svg" alt="activity & community" width="400px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="iso_calendar.svg" alt="iso calendar" width="445px">
+	<img src="iso_calendar.svg" alt="iso calendar" width="400px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
