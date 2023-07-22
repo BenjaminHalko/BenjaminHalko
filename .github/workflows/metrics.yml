@@ -4,21 +4,6 @@ on:
     - cron: "0 7 * * *"
   workflow_dispatch:
 jobs:
-  header:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: header.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: BenjaminHalko
-          template: classic
-          base: header
-          config_timezone: America/Vancouver
-
   repositories:
     runs-on: ubuntu-latest
     permissions:
@@ -87,23 +72,6 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-
-  languages:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: BenjaminHalko
-          template: classic
-          base: ""
-          config_timezone: America/Vancouver
-          plugin_languages: yes
-          plugin_languages_ignored: yacc,java
 
   achievements:
     runs-on: ubuntu-latest
