@@ -215,7 +215,7 @@ if __name__ == "__main__":
         update_data(move, state)
         
         # Create comment
-        issue.create_comment(f"@{user} All done! See the readme for the updated board.")
+        issue.create_comment(f"@{user} Thanks for playing Othello! See the readme for the updated board.")
         issue.edit(state="closed", labels=['Blue' if turn == 0 else 'Green'])
     except Exception as e:
         print(e)
