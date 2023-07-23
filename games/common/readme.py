@@ -1,5 +1,5 @@
 def format_leaderboard(leaderboard):
-    top_moves = sorted([[moves, user] for user, moves in leaderboard.items()], key=lambda x: x[0])
+    top_moves = sorted([[moves, user] for user, moves in leaderboard.items()], key=lambda x: -x[0])
     value = "| Moves | User |\n| :-: | :-: |\n"
     for moves, user in top_moves[:10]:
         value += f"| {moves} | [ @{user}](https://github.com/{user}) |\n"
