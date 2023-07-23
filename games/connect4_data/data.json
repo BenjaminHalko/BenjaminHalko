@@ -53,7 +53,7 @@
             -1,
             -1,
             -1,
-            -1,
+            0,
             1
         ],
         [
@@ -65,17 +65,21 @@
             1
         ]
     ],
-    "turn": 0,
+    "turn": 1,
     "games_won": [
         1,
         0,
         0
     ],
     "leaderboard": {
-        "BenjaminHalko": 25,
+        "BenjaminHalko": 26,
         "lluminate": 1
     },
     "history": [
+        [
+            "\ud83d\udd34 Column 6",
+            "BenjaminHalko"
+        ],
         [
             "\ud83d\udfe1 Column 7",
             "BenjaminHalko"
