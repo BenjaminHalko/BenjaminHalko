@@ -131,7 +131,7 @@ if __name__ == "__main__":
         updateReadme("Connect 4","CONNECT4",info,value, data["leaderboard"], data["history"],stats)
 
         # Create comment
-        issue.create_comment(f"@{user} All done! See the readme for the updated board.")
+        issue.create_comment(f"@{user} Thanks for playing Connect 4! See the readme for the updated board.")
         issue.edit(state="closed", labels=[previousColor])
     except Exception as e:
         issue.create_comment("Sorry, something went wrong. Please try again.")
