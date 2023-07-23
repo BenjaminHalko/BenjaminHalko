@@ -16,7 +16,7 @@
 </tr>
 <tr>
 	<td>
-		🌱 I am currently attempting to become a game programmer at <a href="lasallecollegevancouver.com/vfx-game-design/game-programming-bachelor">LaSalle College</a>.
+		🌱 I am currently attempting to become a game programmer at <a href="https://lasallecollegevancouver.com/vfx-game-design/game-programming-bachelor">LaSalle College</a>.
 	</td>
 </tr>
 <tr>
