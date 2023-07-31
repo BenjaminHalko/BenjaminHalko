@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Benjamin!</h1>
+<h2 align="center">👋 Hello, I'm Benjamin!</h2>
 <div align="center">
 	<a href="https://benjamin-halko.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge" alt="itch.io"></a>
 	<a href="https://gx.games/studios/001cf107-345b-4227-b45e-d54580fe019c/"><img src="https://img.shields.io/badge/GX%20Games-fc1e4f?style=for-the-badge" alt="GX Games"></a>
