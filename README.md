@@ -189,6 +189,6 @@
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="achievements.svg" alt="achievements" width="412px">
+	<img src="followup_achievements.svg" alt="follow up and achievements" width="412px">
 </a>
 </div>
