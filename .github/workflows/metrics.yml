@@ -106,7 +106,6 @@ jobs:
           base: ""
           config_timezone: America/Vancouver
           plugin_followup: yes
-          plugin_followup_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
