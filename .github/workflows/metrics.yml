@@ -73,24 +73,6 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_trim: yes
 
-  achievements:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@master
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: BenjaminHalko
-          template: classic
-          base: ""
-          config_timezone: America/Vancouver
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-
   followup_achievements:
     runs-on: ubuntu-latest
     permissions:
@@ -106,6 +88,7 @@ jobs:
           base: ""
           config_timezone: America/Vancouver
           plugin_followup: yes
+          plugin_followup_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
