@@ -169,7 +169,7 @@
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="iso_calendar.svg" alt="iso calendar" width="412px">
+	<img src="iso_calendar_followup.svg" alt="iso calendar & follow up" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
@@ -189,6 +189,6 @@
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="followup_achievements.svg" alt="follow up and achievements" width="412px">
+	<img src="achievements.svg" alt="achievements" width="412px">
 </a>
 </div>
