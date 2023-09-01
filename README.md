@@ -184,7 +184,7 @@
 		alt="wakatime stats"
 		width="412px"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact&bg_color=00000000" alt="wakatime stats" width="412px">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_dark&hide_border=true&layout=compact&bg_color=00000000&langs_count=18&hide=leetcode,other,text" alt="wakatime stats" width="412px">
 	</picture>
 </a>
 
