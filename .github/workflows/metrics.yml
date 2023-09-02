@@ -17,6 +17,7 @@ jobs:
           user: BenjaminHalko
           template: classic
           base: repositories
+          base_indepth: yes
           config_timezone: America/Vancouver
           plugin_traffic: yes
           plugin_lines: yes
@@ -34,6 +35,7 @@ jobs:
           user: BenjaminHalko
           template: classic
           base: activity, community
+          base_indepth: yes
           config_timezone: America/Vancouver
 
   iso_calendar_followup:
