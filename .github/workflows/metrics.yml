@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -27,7 +27,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: activity_community.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -43,7 +43,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: iso_calendar_followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -62,7 +62,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
