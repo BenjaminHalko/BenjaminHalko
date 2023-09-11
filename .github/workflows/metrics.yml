@@ -82,7 +82,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: redlinejoes/metrics@master
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
