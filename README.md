@@ -183,7 +183,7 @@
 <a href="https://wakatime.com/@benjaminhalko">
 	<picture>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&layout=compact&bg_color=00000000"
+		srcset="https://github-readme-stats.vercel.app/api/wakatime?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&layout=compact&bg_color=00000000&langs_count=18&hide=leetcode,other,text"
 		media="(prefers-color-scheme: light)"
 		alt="wakatime stats"
 		width="412px"
