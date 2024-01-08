@@ -1,5 +1,5 @@
 {
-    "turn": 1,
+    "turn": 0,
     "games_won": [
         0,
         0,
@@ -7,9 +7,14 @@
     ],
     "leaderboard": {
         "BenjaminHalko": 16,
-        "dleedev": 1
+        "dleedev": 1,
+        "Denchyaknow": 1
     },
     "history": [
+        [
+            "\ud83d\udfe2 B3",
+            "Denchyaknow"
+        ],
         [
             "\ud83d\udd35 A7",
             "dleedev"
@@ -115,7 +120,7 @@
         ],
         [
             -1,
-            -1,
+            1,
             1,
             1,
             0,
@@ -126,7 +131,7 @@
         [
             -1,
             -1,
-            0,
+            1,
             0,
             1,
             -1,
@@ -137,7 +142,7 @@
             -1,
             0,
             0,
-            0,
+            1,
             0,
             1,
             -1,
