@@ -21,7 +21,7 @@
             -1,
             -1,
             -1,
-            -1,
+            0,
             0
         ],
         [
@@ -65,7 +65,7 @@
             -1
         ]
     ],
-    "turn": 0,
+    "turn": 1,
     "games_won": [
         1,
         1,
@@ -79,9 +79,14 @@
         "neealdon3": 1,
         "alinarub": 1,
         "cbebe": 1,
-        "BreadGhoti1": 1
+        "BreadGhoti1": 1,
+        "2noScript": 1
     },
     "history": [
+        [
+            "\ud83d\udd34 Column 2",
+            "2noScript"
+        ],
         [
             "\ud83d\udfe1 Column 3",
             "BreadGhoti1"
