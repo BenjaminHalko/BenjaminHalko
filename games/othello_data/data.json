@@ -1,5 +1,5 @@
 {
-    "turn": 0,
+    "turn": 1,
     "games_won": [
         0,
         0,
@@ -8,9 +8,14 @@
     "leaderboard": {
         "BenjaminHalko": 16,
         "dleedev": 1,
-        "Denchyaknow": 1
+        "Denchyaknow": 1,
+        "Coding4Hours": 1
     },
     "history": [
+        [
+            "\ud83d\udd35 D6",
+            "Coding4Hours"
+        ],
         [
             "\ud83d\udfe2 B3",
             "Denchyaknow"
@@ -142,7 +147,7 @@
             -1,
             0,
             0,
-            1,
+            0,
             0,
             1,
             -1,
@@ -152,7 +157,7 @@
             -1,
             0,
             0,
-            -1,
+            0,
             1,
             -1,
             1,
