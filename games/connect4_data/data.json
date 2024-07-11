@@ -19,7 +19,7 @@
         [
             -1,
             -1,
-            -1,
+            1,
             1,
             0,
             0
@@ -65,7 +65,7 @@
             -1
         ]
     ],
-    "turn": 1,
+    "turn": 0,
     "games_won": [
         1,
         1,
@@ -73,7 +73,7 @@
     ],
     "leaderboard": {
         "BenjaminHalko": 30,
-        "lluminate": 1,
+        "lluminate": 2,
         "PHANTOMGOD2OP": 1,
         "oSumAtrIX": 1,
         "neealdon3": 1,
@@ -86,6 +86,10 @@
         "owen-the-kid": 1
     },
     "history": [
+        [
+            "\ud83d\udfe1 Column 2",
+            "lluminate"
+        ],
         [
             "\ud83d\udd34 Column 1",
             "BenjaminHalko"
