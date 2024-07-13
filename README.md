@@ -10,17 +10,22 @@
 <table align="center">
 <tr>
 	<td>
-		I mainly spend my time <a href="https://benjamin-halko.itch.io">making games</a> in GameMaker, though I also <a href="https://github.com/BenjaminHalko/Cho-RealEstate-Website">design websites</a> in Node.js and <a href="https://github.com/BenjaminHalko/WiiMusicEditorPlus">create tools</a> in Python.
+		<img src="assets/Unless/UnlessLeaf.png"/> I am currently the senior developer on <a href="https://store.steampowered.com/app/2944340/Unless/">Unless</a>. A short platformer about collecting leaves and speed running.
 	</td>
 </tr>
 <tr>
 	<td>
-		🌱 I am currently attempting to become a game programmer at <a href="https://lasallecollegevancouver.com/vfx-game-design/game-programming-bachelor">LaSalle College</a>.
+		🎮 In my free time, I make <a href="https://benjamin-halko.itch.io">even more games</a> in GameMaker, contribute to the <a href="https://github.com/ReVanced/revanced-manager">ReVanced Manager</a>, and <a href="https://github.com/BenjaminHalko/WiiMusicEditorPlus">create tools</a> in Python.
 	</td>
 </tr>
 <tr>
 	<td>
-		💬 My area of expertise includes <b>GameMaker</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PowerShell</b>, and <b>C++</b>.
+		🌱 I am currently attempting to become a game programmer at <a href="https://lasallecollegevancouver.lcieducation.com/en/programs-and-courses/bachelor-science-in-game-programming/details">LaSalle College</a>.
+	</td>
+</tr>
+<tr>
+	<td>
+		💬 My area of expertise includes <b>GameMaker</b>, <b>C++</b>, <b>Python</b>, <b>Kotlin</b>, and <b>Flutter</b>.
 	</td>
 </tr>
 </table>
