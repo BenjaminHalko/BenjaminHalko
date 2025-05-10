@@ -11,7 +11,12 @@
 <table align="center">
 <tr>
 	<td>
-		<img src="assets/Unless/UnlessLeaf.png"/> I am currently the senior developer on <a href="https://store.steampowered.com/app/2944340/Unless/">Unless</a>. A short platformer about collecting leaves and speed running.
+		<img src="assets/LottieFiles/lottiefiles.svg" width="16px"/> I am currently a software engineer at <a href="https://lottiefiles.com">LottieFiles</a>.
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="assets/Unless/UnlessLeaf.png"/> I made <a href="https://store.steampowered.com/app/2944340/Unless/">Unless</a>, a short platformer about collecting leaves and speed running.
 	</td>
 </tr>
 <tr>
@@ -26,7 +31,7 @@
 </tr>
 <tr>
 	<td>
-		⭐ My area of expertise includes <b>GameMaker</b>, <b>C++</b>, <b>Python</b>, <b>Kotlin</b>, and <b>Flutter</b>.
+		⭐ My area of expertise includes <b>GameMaker</b>, <b>C++</b>, <b>Python</b>, and <b>Rust</b>.
 	</td>
 </tr>
 <tr>
