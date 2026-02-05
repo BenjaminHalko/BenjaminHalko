@@ -66,13 +66,13 @@
 <table align="center">
 <tr></tr>
 <tr><td>
-<p align="center"><b>A game of Connect 4 played on GitHub.</b><br>🟡 Click on a column to make a move. It is currently Yellow's turn. 🟡</p><p>
+<p align="center"><b>A game of Connect 4 played on GitHub.</b><br>The game is currently over. 🟡 Yellow wins! 🟡<br>Click on a column to start a new game.</p><p>
 
 | [COL 0](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+0&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 1](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+1&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 2](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+2&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 3](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+3&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 4](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+4&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 5](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+5&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 6](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+6&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) | [COL 7](https://github.com/BenjaminHalko/BenjaminHalko/issues/new?title=Connect4:+7&body=Please+do+not+change+the+title.+Just+click+"Submit+new+issue".+You+do+not+need+to+do+anything+else.+%3AD) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
-| <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
+| <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
 | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/red.svg" alt="red" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/connect4_data/yellow.svg" alt="yellow" width="50px"> | <img src="https://github.com/BenjaminHalko/BenjaminHalko/raw/main/games/common/blank.png" alt="blank" width="50px"> |
@@ -82,6 +82,7 @@
 
 | Move | User |
 | :-: | :-: |
+| 🟡 Column 1 | [ @IbrahimExe](https://github.com/IbrahimExe) |
 | 🔴 Column 0 | [ @BenjaminHalko](https://github.com/BenjaminHalko) |
 | 🟡 Column 1 | [ @BenjaminHalko](https://github.com/BenjaminHalko) |
 | 🔴 Column 6 | [ @joelbaldapan](https://github.com/joelbaldapan) |
@@ -117,6 +118,7 @@
 | 2 | [ @cbebe](https://github.com/cbebe) |
 | 2 | [ @Felitendo](https://github.com/Felitendo) |
 | 2 | [ @owen-the-kid](https://github.com/owen-the-kid) |
+| 2 | [ @IbrahimExe](https://github.com/IbrahimExe) |
 | 1 | [ @PHANTOMGOD2OP](https://github.com/PHANTOMGOD2OP) |
 | 1 | [ @oSumAtrIX](https://github.com/oSumAtrIX) |
 | 1 | [ @neealdon3](https://github.com/neealdon3) |
@@ -126,7 +128,6 @@
 | 1 | [ @ASHVALDE](https://github.com/ASHVALDE) |
 | 1 | [ @IgorPiFe](https://github.com/IgorPiFe) |
 | 1 | [ @SpacEagle17](https://github.com/SpacEagle17) |
-| 1 | [ @IbrahimExe](https://github.com/IbrahimExe) |
 | 1 | [ @joelbaldapan](https://github.com/joelbaldapan) |
 
 </details>
@@ -136,9 +137,9 @@
 | Stat | Value |
 | :-: | :-: |
 | Red Wins | 1 |
-| Yellow Wins | 1 |
-| Average Time per Game | 6 Days, 9 Hours, 47 Minutes, 56 Seconds |
-| Average Moves per Game | 13.5 |
+| Yellow Wins | 2 |
+| Average Time per Game | 311 Days, 1 Hours, 52 Minutes, 38 Seconds |
+| Average Moves per Game | 17.0 |
 
 </details>
 </td></tr>

@@ -11,7 +11,7 @@
         [
             -1,
             -1,
-            -1,
+            1,
             1,
             1,
             0
@@ -65,10 +65,10 @@
             -1
         ]
     ],
-    "turn": 1,
+    "turn": 0,
     "games_won": [
         1,
-        1,
+        2,
         0
     ],
     "leaderboard": {
@@ -86,10 +86,14 @@
         "owen-the-kid": 2,
         "IgorPiFe": 1,
         "SpacEagle17": 1,
-        "IbrahimExe": 1,
+        "IbrahimExe": 2,
         "joelbaldapan": 1
     },
     "history": [
+        [
+            "\ud83d\udfe1 Column 1",
+            "IbrahimExe"
+        ],
         [
             "\ud83d\udd34 Column 0",
             "BenjaminHalko"
@@ -185,11 +189,14 @@
     ],
     "game_times": [
         10430.020478010178,
-        1096922.926962614
+        1096922.926962614,
+        79524121.69109559
     ],
     "game_moves": [
         11,
-        16
+        16,
+        24
     ],
-    "game_start_time": 1690733754.930456
+    "game_start_time": 1690733754.930456,
+    "game_over": true
 }
