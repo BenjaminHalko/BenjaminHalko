@@ -6,7 +6,7 @@
 	<a href="https://github.com/BenjaminHalko"><img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
 	<a href="https://linkedin.com/in/BenjaminHalko/"><img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 	<a href="https://ko-fi.com/BenjaminHalko"><img src="https://img.shields.io/badge/kofi-12b9f2?logo=kofi&logoColor=white&style=for-the-badge" alt="KoFi"></a>
-	<a href="https://discord.com/users/752353849070714980"><img src="https://img.shields.io/badge/@BenjaminHalko-6577e6?logo=discord&logoColor=white&style=for-the-badge" alt="KoFi"></a>
+	<a href="https://discord.gg/h6k9Q4QCb8"><img src="https://img.shields.io/badge/@BenjaminHalko-6577e6?logo=discord&logoColor=white&style=for-the-badge" alt="KoFi"></a>
 </div>
 <table align="center">
 <tr>
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 	<td>
-		💬 If you want to chat, feel free to message me on <a href="https://discord.com/users/752353849070714980">Discord</a></b>.
+		💬 If you want to chat, feel free to message me on <a href="https://discord.gg/h6k9Q4QCb8">Discord</a></b>.
 	</td>
 </tr>
 </table>
