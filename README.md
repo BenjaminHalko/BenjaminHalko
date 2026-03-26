@@ -5,8 +5,7 @@
 	<a href="https://play.google.com/store/apps/dev?id=6021828409391936642"><img src="https://img.shields.io/badge/Google%20Play-34a853?logo=googleplay&logoColor=white&style=for-the-badge" alt="Google Play"></a>
 	<a href="https://github.com/BenjaminHalko"><img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
 	<a href="https://linkedin.com/in/BenjaminHalko/"><img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-	<a href="https://ko-fi.com/BenjaminHalko"><img src="https://img.shields.io/badge/kofi-12b9f2?logo=kofi&logoColor=white&style=for-the-badge" alt="KoFi"></a>
-	<a href="https://discord.gg/h6k9Q4QCb8"><img src="https://img.shields.io/badge/@BenjaminHalko-6577e6?logo=discord&logoColor=white&style=for-the-badge" alt="KoFi"></a>
+	<a href="https://discord.gg/h6k9Q4QCb8"><img src="https://img.shields.io/badge/Discord-6577e6?logo=discord&logoColor=white&style=for-the-badge" alt="KoFi"></a>
 </div>
 <table align="center">
 <tr>
