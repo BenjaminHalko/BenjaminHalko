@@ -1,5 +1,5 @@
 {
-    "turn": 0,
+    "turn": 1,
     "games_won": [
         0,
         0,
@@ -11,9 +11,14 @@
         "Denchyaknow": 1,
         "Coding4Hours": 2,
         "DSDHX": 3,
-        "tadanobutubutu": 1
+        "tadanobutubutu": 1,
+        "PlatformCatalyst-Zabnix": 1
     },
     "history": [
+        [
+            "\ud83d\udd35 C1",
+            "PlatformCatalyst-Zabnix"
+        ],
         [
             "\ud83d\udfe2 G7",
             "tadanobutubutu"
@@ -128,8 +133,8 @@
         [
             -1,
             -1,
-            -1,
-            1,
+            0,
+            0,
             0,
             -1,
             -1,
