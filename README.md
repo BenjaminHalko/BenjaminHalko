@@ -203,19 +203,19 @@
 <h1 align="center">More Stats!</h1>
 <div align="center">
 <a href="https://github.com/BenjaminHalko?tab=repositories">
-	<img src="repositories.svg" alt="repositories" width="412px">
+	<img src="repositories.svg" alt="Repository statistics, traffic, and lines of code" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="activity_community.svg" alt="activity & community" width="412px">
+	<img src="activity_community.svg" alt="GitHub activity and community contributions" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="iso_calendar_followup.svg" alt="iso calendar & follow up" width="412px">
+	<img src="iso_calendar_followup.svg" alt="Contribution calendar and issue and pull request follow-up" width="412px">
 </a>
 
 <a href="https://github.com/BenjaminHalko">
-	<img src="habits.svg" alt="habits" width="412px">
+	<img src="habits.svg" alt="Coding habits and activity patterns" width="412px">
 </a>
 
 <a href="https://wakatime.com/@benjaminhalko">
@@ -233,4 +233,11 @@
 <a href="https://github.com/BenjaminHalko">
 	<img src="achievements.svg" alt="achievements" width="412px">
 </a>
+
+<details>
+<summary>Explore detailed achievements</summary>
+<p>
+	<img src="achievements-indepth.svg" alt="Detailed GitHub achievements" width="824px">
+</p>
+</details>
 </div>

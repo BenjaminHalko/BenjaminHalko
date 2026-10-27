@@ -1,4 +1,5 @@
 name: Metrics
+# Community fork migration: https://github.com/EUR-UN/metrics-community/blob/main/MIGRATION.md
 on:
   push:
     paths:
@@ -12,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: EUR-UN/metrics-community@af2cfde79cabc79fad8f3d2d1e88fe51bbde43c8 # v3.35.0-community.2
         with:
           filename: repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -30,7 +31,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: EUR-UN/metrics-community@af2cfde79cabc79fad8f3d2d1e88fe51bbde43c8 # v3.35.0-community.2
         with:
           filename: activity_community.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -46,7 +47,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@v3.33
+      - uses: EUR-UN/metrics-community@af2cfde79cabc79fad8f3d2d1e88fe51bbde43c8 # v3.35.0-community.2
         with:
           filename: iso_calendar_followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -56,6 +57,7 @@ jobs:
           base: ""
           config_timezone: America/Vancouver
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: user
@@ -65,7 +67,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: EUR-UN/metrics-community@af2cfde79cabc79fad8f3d2d1e88fe51bbde43c8 # v3.35.0-community.2
         with:
           filename: habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -75,8 +77,8 @@ jobs:
           base: ""
           config_timezone: America/Vancouver
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
+          plugin_habits_from: 500
+          plugin_habits_days: 30
           plugin_habits_charts: yes
           plugin_habits_trim: yes
 
@@ -85,7 +87,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: EUR-UN/metrics-community@af2cfde79cabc79fad8f3d2d1e88fe51bbde43c8 # v3.35.0-community.2
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -103,7 +105,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: EUR-UN/metrics-community@af2cfde79cabc79fad8f3d2d1e88fe51bbde43c8 # v3.35.0-community.2
         with:
           filename: achievements-indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -114,4 +116,5 @@ jobs:
           config_timezone: America/Vancouver
           plugin_achievements: yes
           plugin_achievements_threshold: X
+          plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
