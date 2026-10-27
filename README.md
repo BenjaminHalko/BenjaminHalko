@@ -25,11 +25,6 @@
 </tr>
 <tr>
 	<td>
-		🌱 I am currently attempting to become a game programmer at <a href="https://lasallecollegevancouver.lcieducation.com/en/programs-and-courses/bachelor-science-in-game-programming/details">LaSalle College</a>.
-	</td>
-</tr>
-<tr>
-	<td>
 		⭐ My area of expertise includes <b>GameMaker</b>, <b>C++</b>, <b>Python</b>, and <b>Rust</b>.
 	</td>
 </tr>
