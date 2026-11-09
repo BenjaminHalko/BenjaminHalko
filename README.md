@@ -229,10 +229,4 @@
 	<img src="achievements.svg" alt="achievements" width="412px">
 </a>
 
-<details>
-<summary>Explore detailed achievements</summary>
-<p>
-	<img src="achievements-indepth.svg" alt="Detailed GitHub achievements" width="824px">
-</p>
-</details>
 </div>
